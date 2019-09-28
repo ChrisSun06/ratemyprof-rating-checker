@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "RateMyProf Rating Checker",
+    "description": "A simple extension that checks selected professor's rating",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
