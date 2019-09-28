@@ -1,0 +1,1 @@
+# ratemyprof-rating-checker
